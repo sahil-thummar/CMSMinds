@@ -1,0 +1,100 @@
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#put as JSONAPI
+Processing by SprintsController#show as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index as JSONAPI
+Processing by SprintsController#show as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#put as JSONAPI
+Processing by SprintsController#show as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index as JSONAPI
+Processing by SprintsController#show as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#put as JSONAPI
+Processing by SprintsController#show as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index as JSONAPI
+Processing by SprintsController#show as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#put as JSONAPI
+Processing by SprintsController#show as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#delete  as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#updat as JSONAPI
+Processing by SprintsController#index as JSONAPI
+Processing by SprintsController#get as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#delete  as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#updat as JSONAPI
+Processing by SprintsController#index as JSONAPI
+Processing by SprintsController#get as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#delete  as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#updat as JSONAPI
+Processing by SprintsController#index as JSONAPI
+Processing by SprintsController#get as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#delete  as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#updat as JSONAPI
+Processing by SprintsController#index as JSONAPI
+Processing by SprintsController#get as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#index  as JSONAPI
+other log
+Processing by SprintsController#show as JSONAPI
